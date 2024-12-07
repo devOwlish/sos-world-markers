@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data version="1">
+    <external_markers_group name="Atlas" used="0"/>
+    <external_markers_group name="Common" used="0"/>
+    <external_markers_group name="Custom" used="0"/>
+    <external_markers_group name="Dungeons" used="0"/>
+    <external_markers_group name="Eodon" used="0"/>
+    <external_markers_group name="Labels" used="0"/>
+    <external_markers_group name="Quest" used="0"/>
+    <external_markers_group name="QuestWOTrammel" used="0"/>
+    <external_markers_group name="Stealables" used="0"/>
+    <external_markers_group name="TerMur" used="0"/>
+    <markers_group name="SoS-Moongates" used="1">
+        <marker name="Moongate Yew" icon="0x4C82" color="0x00FFFFFF" x="1793" y="913" map="1" width="20" height="20" scale="6"/>
+        <marker name="Moongate Central" icon="0x4C82" color="0x00FFFFFF" x="2517" y="1528" map="1" width="20" height="20" scale="6"/>
+        <marker name="Moongate Clues" icon="0x4C82" color="0x00FFFFFF" x="3723" y="2155" map="1" width="20" height="20" scale="6"/>
+        <marker name="Moongate Devil Guard" icon="0x4C82" color="0x00FFFFFF" x="1779" y="1713" map="1" width="20" height="20" scale="6"/>
+        <marker name="Moongate East" icon="0x4C82" color="0x00FFFFFF" x="3718" y="1136" map="1" width="20" height="20" scale="6"/>
+        <marker name="Moongate Frozen Isles" icon="0x4C82" color="0x00FFFFFF" x="4969" y="1297" map="1" width="20" height="20" scale="6"/>
+        <marker name="Moongate Montor" icon="0x4C82" color="0x00FFFFFF" x="2548" y="2685" map="1" width="20" height="20" scale="6"/>
+        <marker name="Moongate Moon" icon="0x4C82" color="0x00FFFFFF" x="963" y="514" map="1" width="20" height="20" scale="6"/>
+        <marker name="Moongate West" icon="0x4C82" color="0x00FFFFFF" x="1051" y="1569" map="1" width="20" height="20" scale="6"/>
+        <marker name="Moongate Druid's glade" icon="0x4C82" color="0x00FFFFFF" x="3907" y="3961" map="1" width="20" height="20" scale="6"/>
+    </markers_group>
+    <markers_group name="SoS-Towns" used="1">
+        <marker name="Town of Moon" icon="OrionData/WorldMapExternalMarkers/MapIcons/TOWN.png" color="0x00FFFFFF" x="823" y="728" map="1" width="0" height="0" scale="6"/>
+        <marker name="City of Britain" icon="OrionData/WorldMapExternalMarkers/MapIcons/TOWN.png" color="0x00FFFFFF" x="3000" y="1056" map="1" width="0" height="0" scale="6"/>
+        <marker name="Town of Yew" icon="OrionData/WorldMapExternalMarkers/MapIcons/TOWN.png" color="0x00FFFFFF" x="2432" y="876" map="1" width="0" height="0" scale="6"/>
+        <marker name="Fort of Stonewall" icon="OrionData/WorldMapExternalMarkers/MapIcons/TOWN.png" color="0x00FFFFFF" x="1826" y="761" map="1" width="0" height="0" scale="6"/>
+        <marker name="City of Montor" icon="OrionData/WorldMapExternalMarkers/MapIcons/TOWN.png" color="0x00FFFFFF" x="3219" y="2610" map="1" width="0" height="0" scale="6"/>
+        <marker name="Village of Grey" icon="OrionData/WorldMapExternalMarkers/MapIcons/TOWN.png" color="0x00FFFFFF" x="902" y="2063" map="1" width="0" height="0" scale="6"/>
+    </markers_group>
+    <markers_group name="Default group" used="1">
+        <marker name="Icecoal Shrine Of Azrael" icon="" color="0x00FFFFFF" x="3316" y="1670" map="1" width="0" height="0" scale="3"/>
+        <marker name="Dark Caves Entrance" icon="" color="0x00FFFFFF" x="3369" y="1551" map="1" width="0" height="0" scale="3"/>
+        <marker name="Tomb of Kas the Bloody Handed" icon="" color="0x00FFFFFF" x="3357" y="1566" map="1" width="0" height="0" scale="3"/>
+        <marker name="Hall of Legends" icon="" color="0x00FFFFFF" x="3242" y="1701" map="1" width="0" height="0" scale="3"/>
+        <marker name="Volcanic Pass" icon="" color="0x00FFFFFF" x="3230" y="1584" map="1" width="0" height="0" scale="3"/>
+        <marker name="Mangar's Tower" icon="0x4FD6" color="0x00FFFFFF" x="2830" y="1876" map="1" width="0" height="0" scale="3"/>
+        <marker name="Graveyard" icon="" color="0x00FFFFFF" x="2916" y="1981" map="1" width="0" height="0" scale="3"/>
+        <marker name="Orc's Fort" icon="" color="0x00FFFFFF" x="2314" y="1805" map="1" width="0" height="0" scale="3"/>
+        <marker name="Black Magic guild entrance" icon="" color="0x00FFFFFF" x="4789" y="1210" map="1" width="0" height="0" scale="3"/>
+        <marker name="Elidor tunnel entrance" icon="" color="0x00FFFFFF" x="2568" y="2623" map="1" width="0" height="0" scale="3"/>
+        <marker name="Elidor tunnel exit" icon="" color="0x00FFFFFF" x="2611" y="2624" map="1" width="0" height="0" scale="3"/>
+        <marker name="Ghostwood" icon="" color="0x00FFFFFF" x="876" y="385" map="1" width="0" height="0" scale="3"/>
+        <marker name="Orc's Fort" icon="" color="0x00FFFFFF" x="575" y="486" map="1" width="0" height="0" scale="3"/>
+        <marker name="Swamp Ruins of the Dead" icon="" color="0x00FFFFFF" x="522" y="203" map="1" width="0" height="0" scale="3"/>
+        <marker name="Mines of Moon" icon="" color="0x00FFFFFF" x="1001" y="575" map="1" width="0" height="0" scale="3"/>
+        <marker name="Graveyard" icon="" color="0x00FFFFFF" x="815" y="615" map="1" width="0" height="0" scale="3"/>
+        <marker name="Inn" icon="OrionData/WorldMapExternalMarkers/MapIcons/INN.png" color="0x00FFFFFF" x="833" y="692" map="1" width="0" height="0" scale="3"/>
+        <marker name="Ranger's Guildmaster" icon="" color="0x00FFFFFF" x="786" y="727" map="1" width="0" height="0" scale="3"/>
+        <marker name="Bank" icon="OrionData/WorldMapExternalMarkers/MapIcons/BANK.png" color="0x00FFFFFF" x="791" y="747" map="1" width="0" height="0" scale="3"/>
+        <marker name="Ratmen Ruins" icon="" color="0x00FFFFFF" x="1292" y="1451" map="1" width="0" height="0" scale="3"/>
+        <marker name="Witch's House" icon="" color="0x00FFFFFF" x="1701" y="1821" map="1" width="0" height="0" scale="3"/>
+        <marker name="Cotton Field" icon="" color="0x00FFFFFF" x="2949" y="1205" map="1" width="0" height="0" scale="3"/>
+        <marker name="Inn" icon="" color="0x00FFFFFF" x="2982" y="1089" map="1" width="0" height="0" scale="3"/>
+        <marker name="Bank of Britain" icon="" color="0x00FFFFFF" x="3018" y="1057" map="1" width="0" height="0" scale="3"/>
+        <marker name="Ratmen's Fort" icon="" color="0x00FFFFFF" x="3401" y="1176" map="1" width="0" height="0" scale="3"/>
+        <marker name="Stone Shrine Of The Gods" icon="0x0ED4" color="0x00FFFFFF" x="3096" y="806" map="1" width="20" height="30" scale="3"/>
+        <marker name="Lighthouse" icon="" color="0x00FFFFFF" x="3198" y="512" map="1" width="0" height="0" scale="3"/>
+        <marker name="Brigand Fort" icon="" color="0x00FFFFFF" x="3011" y="373" map="1" width="0" height="0" scale="3"/>
+        <marker name="sheeps" icon="" color="0x00FFFFFF" x="2694" y="596" map="1" width="0" height="0" scale="3"/>
+        <marker name="Junglewall Cave" icon="" color="0x00FFFFFF" x="2508" y="938" map="1" width="0" height="0" scale="3"/>
+        <marker name="Thieves Guild entrance" icon="OrionData/WorldMapExternalMarkers/MapIcons/THIEVESGUILD.png" color="0x00FFFFFF" x="1903" y="920" map="1" width="0" height="0" scale="3"/>
+        <marker name="Thieves Guild entrance" icon="OrionData/WorldMapExternalMarkers/MapIcons/THIEVESGUILD.png" color="0x00FFFFFF" x="2399" y="859" map="1" width="0" height="0" scale="3"/>
+        <marker name="Thieves Guild entrance" icon="OrionData/WorldMapExternalMarkers/MapIcons/THIEVESGUILD.png" color="0x00FFFFFF" x="3317" y="2062" map="1" width="0" height="0" scale="3"/>
+        <marker name="Lich Tower" icon="" color="0x00FFFFFF" x="3508" y="2283" map="1" width="0" height="0" scale="3"/>
+        <marker name="Castle in the sky" icon="" color="0x00FFFFFF" x="3883" y="2880" map="1" width="0" height="0" scale="3"/>
+        <marker name="Montor Mine" icon="" color="0x00FFFFFF" x="3544" y="2537" map="1" width="0" height="0" scale="3"/>
+        <marker name="Inn Montor" icon="OrionData/WorldMapExternalMarkers/MapIcons/INN.png" color="0x00FFFFFF" x="3120" y="2637" map="1" width="0" height="0" scale="3"/>
+        <marker name="Greedy goblin Bank" icon="OrionData/WorldMapExternalMarkers/MapIcons/BANK.png" color="0x00FFFFFF" x="3100" y="2607" map="1" width="0" height="0" scale="3"/>
+        <marker name="Graveyard" icon="" color="0x00FFFFFF" x="3254" y="2804" map="1" width="0" height="0" scale="3"/>
+        <marker name="Way to the moon? need magical essence" icon="" color="0x00FFFFFF" x="3698" y="519" map="1" width="0" height="0" scale="3"/>
+        <marker name="Old Grey Mine" icon="" color="0x00FFFFFF" x="966" y="2050" map="1" width="0" height="0" scale="3"/>
+        <marker name="Bowman Quest" icon="" color="0x00FFFFFF" x="937" y="2080" map="1" width="0" height="0" scale="3"/>
+        <marker name="Archer Guild" icon="" color="0x00FFFFFF" x="924" y="2075" map="1" width="0" height="0" scale="3"/>
+        <marker name="Bank of Grey" icon="OrionData/WorldMapExternalMarkers/MapIcons/BANK.png" color="0x00FFFFFF" x="873" y="2074" map="1" width="0" height="0" scale="3"/>
+        <marker name="Stone with runes" icon="" color="0x00FFFFFF" x="1340" y="1087" map="1" width="0" height="0" scale="3"/>
+        <marker name="Hot Spring cave" icon="" color="0x00FFFFFF" x="1889" y="1456" map="1" width="0" height="0" scale="3"/>
+        <marker name="Devil's mine" icon="" color="0x00FFFFFF" x="1558" y="1406" map="1" width="0" height="0" scale="3"/>
+        <marker name="Farmland of Devil Guard" icon="" color="0x00FFFFFF" x="1550" y="1441" map="1" width="0" height="0" scale="3"/>
+        <marker name="Runic Doorway" icon="" color="0x00FFFFFF" x="1445" y="1624" map="1" width="0" height="0" scale="3"/>
+    </markers_group>
+    <markers_group name="SoS Dungeons" used="1">
+        <marker name="Dungeon Clues (Normal)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="3759" y="2038" map="1" width="20" height="20" scale="6"/>
+        <marker name="Fires of Hell Dungeon Entrance" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="3345" y="1646" map="1" width="0" height="0" scale="6"/>
+        <marker name="Anicent Pyramid Dungeon (Normal)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1159" y="474" map="1" width="0" height="0" scale="6"/>
+        <marker name=" Accursed Maze Dungeon (Easy)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="878" y="591" map="1" width="0" height="0" scale="6"/>
+        <marker name="Mines of Morinia Dungeon (Normal)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1023" y="1368" map="1" width="0" height="0" scale="6"/>
+        <marker name="Doom Dungeon (Normal)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1625" y="2564" map="1" width="0" height="0" scale="6"/>
+        <marker name="Forgotten Halls Dungeon (Challenging)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="3016" y="944" map="1" width="0" height="0" scale="6"/>
+        <marker name="Dardin's Pit Dungeon (Normal)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="3006" y="444" map="1" width="0" height="0" scale="6"/>
+        <marker name="Magma Vaults Dungeon (Easy)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2366" y="935" map="1" width="0" height="0" scale="6"/>
+        <marker name="Dark Sanctum Dungeon (Easy)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="3183" y="2501" map="1" width="0" height="0" scale="6"/>
+        <marker name="Perinian Depths Dungeon (Normal)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="3619" y="456" map="1" width="0" height="0" scale="6"/>
+        <marker name="Cavern of Sermillon Dungeon" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1915" y="1461" map="1" width="0" height="0" scale="6"/>
+        <marker name="Chamber of Bane Dungeon (Easy)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1424" y="1555" map="1" width="0" height="0" scale="6"/>
+        <marker name="Loc:5362,1399" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5362" y="1399" map="1" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5362" y="1397" map="1" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5605" y="1315" map="1" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5361" y="1354" map="1" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5328" y="575" map="1" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5339" y="707" map="1" width="0" height="0" scale="3"/>
+        <marker name="To the Ebenya" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5354" y="879" map="1" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5359" y="910" map="1" width="0" height="0" scale="3"/>
+    </markers_group>
+</data>
