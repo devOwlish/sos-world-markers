@@ -107,5 +107,11 @@
         <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5243" y="519" map="1" width="0" height="0" scale="3"/>
         <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6033" y="2048" map="1" width="0" height="0" scale="3"/>
         <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6044" y="1918" map="1" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5482" y="1301" map="1" width="0" height="0" scale="3"/>
+        <marker name="Moongate" icon="0x4C82" color="0x00FFFFFF" x="1015" y="545" map="4" width="20" height="20" scale="3"/>
+        <marker name="Altar of the Blood God (Challenging)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1131" y="1036" map="4" width="0" height="0" scale="3"/>
+        <marker name="Blood Temple (Challenging)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1259" y="1223" map="4" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="720" y="2496" map="5" width="0" height="0" scale="3"/>
+        <marker name="Dungeon Dwelling (House)" icon="Z:/Users/sowa/Stuff/UO/OrionClient/OrionData/WorldMapExternalMarkers/MapIcons/BANK.png" color="0x00FFFFFF" x="757" y="1094" map="4" width="0" height="0" scale="3"/>
     </markers_group>
 </data>
