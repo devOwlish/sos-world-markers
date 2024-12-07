@@ -103,5 +103,9 @@
         <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5339" y="707" map="1" width="0" height="0" scale="3"/>
         <marker name="To the Ebenya" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5354" y="879" map="1" width="0" height="0" scale="3"/>
         <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5359" y="910" map="1" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5376" y="748" map="1" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5243" y="519" map="1" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6033" y="2048" map="1" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6044" y="1918" map="1" width="0" height="0" scale="3"/>
     </markers_group>
 </data>
