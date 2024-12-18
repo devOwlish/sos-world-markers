@@ -153,5 +153,39 @@
         <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5558" y="2182" map="1" width="0" height="0" scale="3"/>
         <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5705" y="2171" map="1" width="0" height="0" scale="3"/>
         <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5991" y="2185" map="1" width="0" height="0" scale="3"/>
+        <marker name="Boss ( Ancient Wyrm )" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6209" y="3904" map="0" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6218" y="3939" map="0" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6304" y="3815" map="0" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6185" y="1004" map="0" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6098" y="3657" map="0" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6143" y="3513" map="0" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6085" y="4049" map="0" width="0" height="0" scale="3"/>
+        <marker name="Boss" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6083" y="3985" map="0" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6141" y="3712" map="0" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6245" y="3952" map="0" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="6134" y="3839" map="0" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="274" y="2981" map="5" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="285" y="2918" map="5" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="401" y="2961" map="5" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="484" y="2896" map="5" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="266" y="2848" map="5" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="266" y="2762" map="5" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="411" y="2818" map="5" width="0" height="0" scale="3"/>
+        <marker name="Boss ( Ice Queen )" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="463" y="2784" map="5" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1852" y="1498" map="2" width="0" height="0" scale="3"/>
+        <marker name="Glacial Scar (Challenging)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="208" y="180" map="4" width="0" height="0" scale="3"/>
+        <marker name="Ice Queen Lair (Challenging)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="317" y="332" map="4" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2273" y="1309" map="2" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2179" y="1129" map="2" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2128" y="1134" map="2" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1968" y="1399" map="2" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2035" y="1336" map="2" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2088" y="1518" map="2" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1933" y="1563" map="2" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1942" y="1477" map="2" width="0" height="0" scale="3"/>
+        <marker name="Boss ( Ancient Wyrm )" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1685" y="1501" map="2" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1778" y="1491" map="2" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2210" y="1503" map="2" width="0" height="0" scale="3"/>
+        <marker name="Boss" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2168" y="1467" map="2" width="0" height="0" scale="3"/>
     </markers_group>
 </data>
