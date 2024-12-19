@@ -322,5 +322,22 @@
         <marker name="down (to lvl 2)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5212" y="85" map="1" width="0" height="0" scale="3"/>
         <marker name="up (to lvl 1)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5399" y="299" map="1" width="0" height="0" scale="3"/>
         <marker name="down" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="6778" y="3115" map="1" width="0" height="0" scale="3"/>
+        <marker name="Entrance" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5861" y="812" map="1" width="0" height="0" scale="3"/>
+        <marker name="Castle Exodus" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="878" y="2650" map="1" width="0" height="0" scale="3"/>
+        <marker name="Exit" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5933" y="591" map="1" width="0" height="0" scale="3"/>
+        <marker name="Temple of Osirus (clallenging)(" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="601" y="815" map="4" width="0" height="0" scale="3"/>
+        <marker name="Cave of the Zooloo (Challenging)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5901" y="3995" map="1" width="0" height="0" scale="3"/>
+        <marker name="Caverns of Poseidon" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="198" y="2292" map="1" width="0" height="0" scale="3"/>
+        <marker name="Exit" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5199" y="2118" map="1" width="0" height="0" scale="3"/>
+        <marker name="Ambrosian Cavern" icon="OrionData/WorldMapExternalMarkers/MapIcons/TENT.png" color="0x00FFFFFF" x="5610" y="3456" map="1" width="0" height="0" scale="3"/>
+        <marker name="Dungeon Dwelling" icon="OrionData/WorldMapExternalMarkers/MapIcons/LANDMARK.png" color="0x00FFFFFF" x="5388" y="3280" map="1" width="0" height="0" scale="3"/>
+        <marker name="Dragon's Maw (Normal)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5316" y="3429" map="1" width="0" height="0" scale="3"/>
+        <marker name="Shrine of Strength" icon="" color="0x00FFFFFF" x="5217" y="3602" map="1" width="0" height="0" scale="3"/>
+        <marker name="Srine Of Dexterity" icon="" color="0x00FFFFFF" x="5746" y="3884" map="1" width="0" height="0" scale="3"/>
+        <marker name="Drown SpaceShip" icon="" color="0x00FFFFFF" x="464" y="1808" map="1" width="0" height="0" scale="3"/>
+        <marker name="Pier" icon="" color="0x00FFFFFF" x="865" y="1354" map="1" width="0" height="0" scale="3"/>
+        <marker name="Shrine of Wisdom" icon="" color="0x00FFFFFF" x="5903" y="3570" map="1" width="0" height="0" scale="3"/>
+        <marker name="The Wizard's home" icon="" color="0x00FFFFFF" x="6005" y="3671" map="1" width="0" height="0" scale="3"/>
+        <marker name="Old Tom's Hut" icon="OrionData/WorldMapExternalMarkers/MapIcons/CASTLE.png" color="0x00FFFFFF" x="1074" y="1608" map="1" width="0" height="0" scale="3"/>
     </markers_group>
 </data>
