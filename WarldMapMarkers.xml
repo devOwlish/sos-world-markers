@@ -187,5 +187,8 @@
         <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1778" y="1491" map="2" width="0" height="0" scale="3"/>
         <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2210" y="1503" map="2" width="0" height="0" scale="3"/>
         <marker name="Boss" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2168" y="1467" map="2" width="0" height="0" scale="3"/>
+        <marker name="Ambroz" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5729" y="3267" map="1" width="0" height="0" scale="3"/>
+        <marker name="Portal" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5439" y="3093" map="1" width="0" height="0" scale="3"/>
+        <marker name="Cave of Zuulu (Normal)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="5904" y="3998" map="1" width="0" height="0" scale="3"/>
     </markers_group>
 </data>
