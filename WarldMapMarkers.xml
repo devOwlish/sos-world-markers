@@ -322,5 +322,14 @@
         <marker name="down (to lvl 2)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5212" y="85" map="1" width="0" height="0" scale="3"/>
         <marker name="up (to lvl 1)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5399" y="299" map="1" width="0" height="0" scale="3"/>
         <marker name="down" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="6778" y="3115" map="1" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="" color="0x00FFFFFF" x="439" y="3869" map="1" width="0" height="0" scale="3"/>
+        <marker name="Dungeon Wicked (Difficult)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="735" y="257" map="3" width="0" height="0" scale="3"/>
+        <marker name="Flooded Temple (Hard)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1069" y="950" map="3" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="2465" y="852" map="3" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="2440" y="708" map="3" width="0" height="0" scale="3"/>
+        <marker name="Serpent Sanctum (Difficult)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="1095" y="1609" map="3" width="0" height="0" scale="3"/>
+        <marker name="Dungeon Ankh (Hard)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="464" y="1433" map="3" width="0" height="0" scale="3"/>
+        <marker name="Down" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2031" y="59" map="3" width="0" height="0" scale="3"/>
+        <marker name="Up" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="2035" y="105" map="3" width="0" height="0" scale="3"/>
     </markers_group>
 </data>
