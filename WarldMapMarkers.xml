@@ -26,6 +26,9 @@
         <marker name="Moongate Isle of Fire" icon="0x4C82" color="0x00FFFFFF" x="967" y="2726" map="1" width="20" height="20" scale="3"/>
         <marker name="Moongate Lost Island" icon="0x4C82" color="0x00FFFFFF" x="4038" y="179" map="1" width="20" height="20" scale="3"/>
         <marker name="Moongate Umber Veil" icon="0x4C82" color="0x00FFFFFF" x="1250" y="3815" map="1" width="20" height="20" scale="3"/>
+        <marker name="Moongate Serpent Island West" icon="0x4C82" color="0x00FFFFFF" x="233" y="1333" map="3" width="0" height="0" scale="6"/>
+        <marker name="Moongate Serpent Island South" icon="0x4C82" color="0x00FFFFFF" x="1300" y="1372" map="3" width="0" height="0" scale="6"/>
+        <marker name="Moongate Serpent Island North" icon="0x4C82" color="0x00FFFFFF" x="1162" y="411" map="3" width="0" height="0" scale="6"/>
     </markers_group>
     <markers_group name="SoS-Towns" used="1">
         <marker name="Town of Moon" icon="OrionData/WorldMapExternalMarkers/MapIcons/TOWN.png" color="0x00FFFFFF" x="823" y="728" map="1" width="0" height="0" scale="6"/>
@@ -146,6 +149,7 @@
         <marker name="Shrine of Wisdom" icon="OrionData/WorldMapExternalMarkers/MapIcons/SHRINE.png" color="0x00FFFFFF" x="5904" y="3571" map="1" width="0" height="0" scale="3"/>
         <marker name="fishing spot" icon="" color="0x00FFFFFF" x="1278" y="2653" map="1" width="0" height="0" scale="3"/>
         <marker name="Pirate Lord" icon="" color="0x00FFFFFF" x="1874" y="2214" map="1" width="0" height="0" scale="3"/>
+        <marker name="Hateful cave (Hall of Legends)" icon="" color="0x00FFFFFF" x="1458" y="1204" map="3" width="0" height="0" scale="3"/>
     </markers_group>
     <markers_group name="SoS Dungeons" used="1">
         <marker name="Dungeon Clues (Normal)" icon="OrionData/WorldMapExternalMarkers/MapIcons/DUNGEON.png" color="0x00FFFFFF" x="3759" y="2038" map="1" width="0" height="0" scale="6"/>
@@ -251,7 +255,7 @@
         <marker name="down (to level 2)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5243" y="518" map="1" width="0" height="0" scale="3"/>
         <marker name="up (to level 1)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5339" y="707" map="1" width="0" height="0" scale="3"/>
         <marker name="down (to level 3)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5376" y="749" map="1" width="0" height="0" scale="3"/>
-        <marker name="Portal to Isles of Dread" icon="OrionData/WorldMapExternalMarkers/MapIcons/MOONGATE.png" color="0x00FFFFFF" x="5353" y="878" map="1" width="0" height="0" scale="3"/>
+        <marker name="Portal to Isles of Dread" icon="0x4C82" color="0x00FFFFFF" x="5353" y="878" map="1" width="0" height="0" scale="3"/>
         <marker name="up (to level 2)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5361" y="909" map="1" width="0" height="0" scale="3"/>
         <marker name="down (to lvl 3)" icon="OrionData/WorldMapExternalMarkers/MapIcons/stairs.png" color="0x00FFFFFF" x="5362" y="1397" map="1" width="0" height="0" scale="3"/>
         <marker name="up (to lvl 2)" icon="OrionData/WorldMapExternalMarkers/MapIcons/stairs.png" color="0x00FFFFFF" x="5605" y="1315" map="1" width="0" height="0" scale="3"/>
@@ -259,7 +263,7 @@
         <marker name="exit" icon="OrionData/WorldMapExternalMarkers/MapIcons/EXIT.png" color="0x00FFFFFF" x="6033" y="2048" map="1" width="0" height="0" scale="3"/>
         <marker name="down (to lvl 2)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="6044" y="1918" map="1" width="0" height="0" scale="3"/>
         <marker name="Time Lord moongate" icon="" color="0x00FFFFFF" x="4803" y="3355" map="1" width="0" height="0" scale="3"/>
-        <marker name="Moongate to Time Lord" icon="OrionData/WorldMapExternalMarkers/MapIcons/MOONGATE.png" color="0x00FFFFFF" x="5660" y="868" map="1" width="0" height="0" scale="3"/>
+        <marker name="Moongate to Time Lord" icon="0x4C82" color="0x00FFFFFF" x="5660" y="868" map="1" width="0" height="0" scale="3"/>
         <marker name="Hourglass of Ages loot" icon="" color="0x00FFFFFF" x="5737" y="792" map="1" width="0" height="0" scale="3"/>
         <marker name="up (to lvl 1)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5560" y="923" map="1" width="0" height="0" scale="3"/>
         <marker name="down (to lvl 2)" icon="OrionData/WorldMapExternalMarkers/MapIcons/STAIRS.png" color="0x00FFFFFF" x="5574" y="690" map="1" width="0" height="0" scale="3"/>
